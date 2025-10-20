@@ -3,4 +3,4 @@
 ## Subtitlu
 *Text italic* sau **Text ingrosat**
 - Un element de lista
-[Text_link] (hhtps://usv.ro)
+[Text_link] (https://usv.ro)
