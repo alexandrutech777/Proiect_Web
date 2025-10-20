@@ -3,4 +3,4 @@
 ## Subtitlu
 *Text italic* sau **Text ingrosat**
 - Un element de lista
-[Text link] (https://adresa.url)
+[Text_link] (https://adresa.url)
